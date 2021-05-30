@@ -1,0 +1,10 @@
+homeone=new Image();
+homeone.src="http://themcgareygroup.com/images/atlantic-station-atlanta-ga.jpg";
+hometwo=new Image();
+hometwo.src="http://themcgareygroup.com/images/gallery-place-washington-dc.jpg";
+homethree=new Image();
+homethree.src="http://themcgareygroup.com/images/usc-village-los-angeles.jpg";
+homefour=new Image();
+homefour.src="http://themcgareygroup.com/images/west-7th-ft-worth-texas.jpg";
+homefive=new Image();
+homefive.src="http://themcgareygroup.com/images/westgate-glendale-arizona.jpg";
